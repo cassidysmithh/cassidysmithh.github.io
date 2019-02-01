@@ -1,0 +1,21 @@
+H1 {
+    font-size: 200%;
+    font-weight: bold;
+    color: deepskyblue;
+}
+
+H2 {
+    font-size: 150%;
+    color: deepskyblue;
+}
+p {
+    color: ghostwhite;
+    font-size: 15pt;
+    font-family: PT "PT Serif", serif;
+}
+a {
+    color: ghostwhite;
+}
+body {
+    background: blue;
+}
